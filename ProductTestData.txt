@@ -1,0 +1,3 @@
+000006,Apple,Fruits,1.99
+000006,Apple,Fuji,1.99
+000008,Apple,Fuji,1.99
